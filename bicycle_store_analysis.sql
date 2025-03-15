@@ -19,7 +19,7 @@ monthly sales behavior.
 - **Visualization:** Tableau 
   - A time-series graph will illustrate revenue and profit trends, 
 	highlighting seasonal dips.
-  - A heatmap will help identify struggling product categories.
+  - A tree map will help identify struggling product categories.
 
 **Data Source:** 
 - Kaggle: [Analyzing Customer Spending Habits]
