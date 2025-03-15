@@ -16,7 +16,7 @@ declines, highlighting areas for improvement.
 monthly sales behavior.
 **Technologies Used:** 
 - **Database:** MySQL 
-- **Visualization:** Tableau 
+- **Visualization:** Power BI 
   - A time-series graph will illustrate revenue and profit trends, 
 	highlighting seasonal dips.
   - A tree map will help identify struggling product categories.
